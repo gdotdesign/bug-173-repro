@@ -1,0 +1,6 @@
+{
+  "name": "bug-173-repro",
+  "source-directories": [
+    "source"
+  ]
+}
